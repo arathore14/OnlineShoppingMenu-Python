@@ -1,16 +1,3 @@
-#--------------------------------------------------------------------------
-# Class: IT 209-001
- 
-# Assignment #3: University Department Class Definition
-
-# Purpose: Python program to define a class to model some characteristics of a
-#          university Department using the STUDENT class
-
-# Author: Amanpreet Rathore
-
-# Date: 09/30/2019
-#--------------------------------------------------------------------------
-
 
 #STUDENT CLASS______________
 
